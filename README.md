@@ -18,7 +18,7 @@ A simple weather application built with **HTML, CSS, and JavaScript** that fetch
 ## How to Run
 
 1. Download or clone the repository.
-2. Open `index.html` in your browser.
+2. Open `whether.html` in your browser.
 3. Enter a city name and click **Get Weather**.
 
 ## API Setup
